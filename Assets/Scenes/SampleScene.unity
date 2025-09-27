@@ -972,6 +972,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 3
+  ShootEffect: {fileID: 4034629408960220945, guid: eed1a45e80cff814cbaeaedc281d0627, type: 3}
+  blastRadius: 2
+  enemyLayers:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!1 &1518844405
 GameObject:
   m_ObjectHideFlags: 0

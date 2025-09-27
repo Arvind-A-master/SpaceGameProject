@@ -62,7 +62,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Player_MoveState.cs" />
-    <Compile Include="Assets\Scripts\Player_xMoveState.cs" />
     <Compile Include="Assets\Scripts\Entity.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\StateMachine\StateMachine.cs" />
